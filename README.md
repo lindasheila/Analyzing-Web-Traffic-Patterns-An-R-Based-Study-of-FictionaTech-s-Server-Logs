@@ -1,0 +1,2 @@
+# Analyzing-Web-Traffic-Patterns-An-R-Based-Study-of-FictionaTech-s-Server-Logs
+This project analyzes FictionaTech's web server logs to uncover statistical insights, correlations, and patterns in user behavior and web traffic. Using R programming, I clean, explore, and visualize the dataset, providing actionable recommendations to optimize web services. The deliverable is an R Markdown file containing the code and analysis.
